@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá! 👋
+
+Comecei a me interessar por tecnologia desde meus 12 anos de idade, quando fiz meus primeiros sites em HTML e CSS. Meus primeiros jogos foram feitos no RPG Maker e Mugen, sem nem ao menos saber que poderia ser algum tipo de profissão futuramente.
+Apesar disso, passei a vida toda como Diretor de uma Escola de Dança na qual fui Professor e Coreógrafo, tendo somente como hobbie as minhas paixões da tecnologia.
+Após a pandemia de COVID-19, pude reavaliar minhas prioridades, e minhas antigas paixões voltaram à tona.
 
 <!--
 **fabianoairon/fabianoairon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
